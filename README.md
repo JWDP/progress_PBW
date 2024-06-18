@@ -1,6 +1,6 @@
 # progress_PBW
-Nama : Juliana Widianti Dwi Putri
-NPM : 2210631170025
-Kelas : 4D-Informatika
-Mata Kuliah : Pemprograman Berbasis Web
-Dosen Pengampu : Kamal Prihamdani
+Nama : Juliana Widianti Dwi Putri <br>
+NPM : 2210631170025 <br>
+Kelas : 4D-Informatika <br>
+Mata Kuliah : Pemprograman Berbasis Web <br>
+Dosen Pengampu : Kamal Prihamdani <br>
